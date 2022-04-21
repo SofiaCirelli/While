@@ -535,7 +535,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   counter: 0
-  counterMax: 999
+  counterMax: 10
   txt_display: {fileID: 298434673}
 --- !u!4 &1173460402
 Transform:
